@@ -27,4 +27,8 @@ The Automatic Irrigation System automates and monitors environmental conditions 
 
 ---
 ## video
-![video of the project working](https://github.com/Mohamed-Fathy-K/Automatic-Irrigation-System-Using-Arduino/raw/main/assets/vid.mp4)
+
+https://github.com/Mohamed-Fathy-K/Automatic-Irrigation-System-Using-Arduino/assets/91393658/04149739-773b-4236-bdf2-d00f2c7f1c29
+
+
+
